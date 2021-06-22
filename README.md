@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is the first page in my new GitHub pages Web site. Here's a [link to as sub page](testfile).
+This is the first page in my new GitHub pages Web site. Here's a [link to as sub page](testfile2.md).
 
 You can use the [editor on GitHub](https://github.com/PeterNH42/PeterNH42.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
